@@ -1,0 +1,13 @@
+django
+djangorestframework
+requests
+yfinance
+yahooquery
+django-cors-headers
+PyPortfolioOpt
+pandas
+torch
+scikit-learn
+matplotlib
+PyPortfolioOpt
+scikit-learn
